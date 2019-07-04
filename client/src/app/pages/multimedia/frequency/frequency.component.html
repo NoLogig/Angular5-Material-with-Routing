@@ -1,0 +1,28 @@
+
+<canvas #base></canvas>
+
+<h3 class="mediaName"> {{ mediaName }} </h3>
+<audio #player controls ></audio>
+<div class="tvStripes"></div>
+
+
+<nlg-business-card [metas]="metas"></nlg-business-card>
+
+<button mat-button type="button" (click)="this.decibelMeter();">
+  <mat-icon aria-label="Show Synth">pause</mat-icon>
+</button>
+
+<button mat-button type="button" (click)="this.canvasAnimate();">
+  <mat-icon aria-label="Show Synth">star</mat-icon>
+</button>
+
+<button mat-button type="button" (click)="this.synthesizer(fred);" style="z-index: 500;">
+  <mat-icon aria-label="Show Synth">star</mat-icon>
+</button>
+
+<div class="decibelMeter" ></div>
+
+<!-- File Reader -->
+<input type="file" #fred multiple />
+
+<button mat-raised-button color="primary" (click)="fred.click();">Select</button>

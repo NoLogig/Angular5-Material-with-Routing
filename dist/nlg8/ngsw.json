@@ -1,0 +1,116 @@
+{
+  "configVersion": 1,
+  "timestamp": 1562223518713,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.921cf2eeb6b8ce317a0b.js",
+        "/main-es5.0323d1b46eeabd22c98f.js",
+        "/polyfills-es2015.edf60e92366a5a261979.js",
+        "/polyfills-es5.405730e5ac8f727bd7d7.js",
+        "/runtime-es2015.858f8dd898b75fe86926.js",
+        "/runtime-es5.741402d1d47331ce975c.js",
+        "/styles.e42473464b1910b56073.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/220px-Hexahedron.svg.9c3aadda4cf2ae853fc7.png",
+        "/435px-Metatrons_cube.svg.5716ffbe0c389683d8dc.png",
+        "/4850d545847a94cb0a516ace7e53e9a0.4850d545847a94cb0a51.jpg",
+        "/ETHEREUM-ICON_Black_md.224de102cb52aa8124ea.png",
+        "/Ethereum-homestead-background-10.03d02aed1992de99805c.jpg",
+        "/Ethereum-homestead-background-21.469a263fd5e642e2505e.jpg",
+        "/Ethereum-homestead-background-31.f6ebad6ce7d3222fa2c7.jpg",
+        "/Ethereum-homestead-background-37.29961273a19d22be4bb5.jpg",
+        "/Ethereum-homestead-background-39.833d7eb9d2ea21e460aa.jpg",
+        "/Ethereum-homestead-background-4.fff0f0939f2093f5702e.jpg",
+        "/assets/Tessellate_Alt-J.mp3",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/poster/Ethereum-homestead-background-10.jpg",
+        "/assets/images/poster/Ethereum-homestead-background-14.jpg",
+        "/assets/images/poster/Ethereum-homestead-background-27.jpg",
+        "/assets/images/tiles/ball.png",
+        "/assets/images/tiles/tileset.png",
+        "/assets/new_year_dubstep_minimix.ogv",
+        "/moon.47991256d96a350873aa.png",
+        "/wallpaper-homestead.c60146e62a98011907bf.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/220px-Hexahedron.svg.9c3aadda4cf2ae853fc7.png": "cebc9f075d4de28eebb5ae0282a32bd71d6b10fb",
+    "/435px-Metatrons_cube.svg.5716ffbe0c389683d8dc.png": "3732597b7dac0b08cc8e9d38d5f44d60c3d112ea",
+    "/4850d545847a94cb0a516ace7e53e9a0.4850d545847a94cb0a51.jpg": "d0c2de28cdacbf76d81c484558bc131257900853",
+    "/ETHEREUM-ICON_Black_md.224de102cb52aa8124ea.png": "69d2c86755f2b6cbd7cb86ce54d966b52486c832",
+    "/Ethereum-homestead-background-10.03d02aed1992de99805c.jpg": "ca1d723ad3871633569a5960bcc38b630f3e8a7f",
+    "/Ethereum-homestead-background-21.469a263fd5e642e2505e.jpg": "a1ccaa483eb32d0865f7ae75435e8faa1407534e",
+    "/Ethereum-homestead-background-31.f6ebad6ce7d3222fa2c7.jpg": "13f20e6315fef92970bbb6da25dc2864ee758286",
+    "/Ethereum-homestead-background-37.29961273a19d22be4bb5.jpg": "0dbcbcff4e45d5617eee13793d14366c3703e11c",
+    "/Ethereum-homestead-background-39.833d7eb9d2ea21e460aa.jpg": "c99a520b25e784f560c0f9620e28aa747ee8a065",
+    "/Ethereum-homestead-background-4.fff0f0939f2093f5702e.jpg": "26e577e0054b450d08fd650ffd16c906f08fc788",
+    "/assets/Tessellate_Alt-J.mp3": "7b4b5deecdd65493083d8bfb56677a42bf368b1c",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/poster/Ethereum-homestead-background-10.jpg": "ca1d723ad3871633569a5960bcc38b630f3e8a7f",
+    "/assets/images/poster/Ethereum-homestead-background-14.jpg": "5abd8db6aff43ccbb29fdecd33a28c0a54df8bff",
+    "/assets/images/poster/Ethereum-homestead-background-27.jpg": "4423ad2fe3cdbfbc9237383b23de5f51da287097",
+    "/assets/images/tiles/ball.png": "1459f8e804c484e6f06f4bab7d580bdd5168d2a4",
+    "/assets/images/tiles/tileset.png": "cc5b278e48a547d3a56dd74a01261e122226df3b",
+    "/assets/new_year_dubstep_minimix.ogv": "c88222d84085bf649c5ece0263e7ed5cf58efe15",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "6330725b76162c9e9d96a38ff64fe4ce3a223d99",
+    "/main-es2015.921cf2eeb6b8ce317a0b.js": "dca096e025f96ae944f02f86894f4ccf6b5285ab",
+    "/main-es5.0323d1b46eeabd22c98f.js": "4e0cd5d44a804006d4d8428b0b225a19326c52a4",
+    "/moon.47991256d96a350873aa.png": "a3225a3e38c291b5c8663057562deacb1dce387f",
+    "/polyfills-es2015.edf60e92366a5a261979.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
+    "/polyfills-es5.405730e5ac8f727bd7d7.js": "042d7744ef82a64c73310f1db253736731a03950",
+    "/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.e42473464b1910b56073.css": "6a0f331f48176ac6a3b90c0e3d85c3f285113be6",
+    "/wallpaper-homestead.c60146e62a98011907bf.jpg": "d6f4292a9e9d7527e1ef2b062435bdb9251fa2b8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

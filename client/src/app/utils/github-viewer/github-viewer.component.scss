@@ -1,0 +1,19 @@
+.example-card {
+    max-width: 400px;
+    float: left;
+  }
+  .example-header-image {
+    width: 380px; 
+    height: 360px;
+  }
+  mat-card-title {
+      margin-top: 16px;
+  }
+  .example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 100%;
+  }

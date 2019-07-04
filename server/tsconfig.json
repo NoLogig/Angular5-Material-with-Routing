@@ -1,0 +1,14 @@
+{
+  "extends": "../client/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../dist/server",
+    "module": "commonjs",
+    "target": "es2016",
+    
+    // "mapRoot": "../dist/server",
+    // "sourceMap": true,
+    // "declarationMap": false,
+  }
+
+
+}
